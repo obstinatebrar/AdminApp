@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "366824724431",
+    "firebase_url": "https://androidproject-fec80.firebaseio.com",
+    "project_id": "androidproject-fec80",
+    "storage_bucket": "androidproject-fec80.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366824724431:android:5505a3549c6f3efa",
+        "android_client_info": {
+          "package_name": "com.android.surinderkahlon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "366824724431-4ma2a1mb4pql484kehontcl45oc366bl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXelIjNG5-8YaK81lBPJfGOfUl6XM7wa0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366824724431:android:9b0da73f1d16d002",
+        "android_client_info": {
+          "package_name": "com.example.surinderkahlon.mapdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "366824724431-4ma2a1mb4pql484kehontcl45oc366bl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXelIjNG5-8YaK81lBPJfGOfUl6XM7wa0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
